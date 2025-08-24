@@ -5,12 +5,6 @@
 Website: [evilcharts.com](https://evilcharts.com)
 
 
-<div align="center">
-  <img width="4800" height="2532" alt="banner" src="https://github.com/user-attachments/assets/e5701a46-1a32-449d-aaef-e9172af7dc0a" />
-</div>
-
-<h1 align="center">😈 EvilCharts</h1>
-
 <p align="center">
   <strong>An evil-ishly simple, modern, and visually stunning chart library for React & Next.js.</strong>
 </p>
@@ -42,11 +36,7 @@ Tired of boring, boilerplate charts? **EvilCharts** empowers you to create stunn
 
 ---
 
-### 🚀 Quick Start
 
-Get up and running in less than a minute.
-
-**1. Install the package:**
 
  
   <picture>
