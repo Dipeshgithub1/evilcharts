@@ -4,6 +4,7 @@
 
 Website: [evilcharts.com](https://evilcharts.com)
 
+
 <div align="center">
   <img width="4800" height="2532" alt="banner" src="https://github.com/user-attachments/assets/e5701a46-1a32-449d-aaef-e9172af7dc0a" />
 </div>
@@ -46,10 +47,6 @@ Tired of boring, boilerplate charts? **EvilCharts** empowers you to create stunn
 Get up and running in less than a minute.
 
 **1. Install the package:**
-
-```bash
-npm install evilcharts
-
 
  
   <picture>
